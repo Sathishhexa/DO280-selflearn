@@ -1,6 +1,6 @@
 <?php phpinfo();
 
 
-welcome test
+print "welcome test\n";
 
 ?>
