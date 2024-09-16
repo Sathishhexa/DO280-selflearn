@@ -1,4 +1,5 @@
-<?php
+<?php phpinfo();
+
 
 welcome test
 
