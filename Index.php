@@ -1,4 +1,4 @@
-<?php phpinfo();
+<?php
 
 
 print "welcome test\n";
